@@ -18,7 +18,7 @@ instructions indicated country and description should be included but not in dat
 hotel name did not populate in dataframe
  
 
-Deliverable 3: Travel Iteneray Map
+3) Deliverable 3: Travel Iteneray Map
 Problems Encountered: 
 because hotel  name not populated, didn't not run correctly
 directions requested, but didn't understand directions; could not figure out
